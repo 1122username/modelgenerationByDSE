@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ASCII"?>
+<hu.bme.mit.trainbenchmark:RailwayContainer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hu.bme.mit.trainbenchmark="http://www.semanticweb.org/ontologies/2015/trainbenchmark">
+  <regions id="-5">
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="-1" expansionPoint="true" connectsTo="//@regions.1/@elements.0 //@regions.1/@elements.1 //@regions.0/@elements.1"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="-2" expansionPoint="true" connectsTo="//@regions.0/@elements.0 //@regions.1/@elements.0 //@regions.1/@elements.1"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" connectsTo="//@regions.1/@elements.3 //@regions.1/@elements.2 //@regions.0/@elements.3"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="2" connectsTo="//@regions.0/@elements.5 //@regions.0/@elements.2 //@regions.1/@elements.6"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="1" connectsTo="//@regions.1/@elements.3 //@regions.0/@elements.6" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="2" connectsTo="//@regions.0/@elements.3 //@regions.0/@elements.6" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="3" connectsTo="//@regions.0/@elements.4 //@regions.0/@elements.5" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="7" connectsTo="//@regions.1/@elements.5 //@regions.1/@elements.7" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="8" connectsTo="//@regions.1/@elements.8 //@regions.0/@elements.9" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="9" connectsTo="//@regions.0/@elements.8 //@regions.0/@elements.10" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="5" connectsTo="//@regions.0/@elements.9 //@regions.1/@elements.9 //@regions.1/@elements.10"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="11" connectsTo="//@regions.1/@elements.9 //@regions.1/@elements.10" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="8" connectsTo="//@regions.1/@elements.12 //@regions.0/@elements.13 //@regions.0/@elements.15"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="14" connectsTo="//@regions.0/@elements.12 //@regions.1/@elements.14" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="10" connectsTo="//@regions.1/@elements.13 //@regions.0/@elements.15 //@regions.1/@elements.15"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="15" connectsTo="//@regions.0/@elements.14 //@regions.0/@elements.12" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="17" connectsTo="//@regions.0/@elements.17 //@regions.1/@elements.18" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="12" connectsTo="//@regions.0/@elements.16 //@regions.1/@elements.17 //@regions.0/@elements.19"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="15" connectsTo="//@regions.0/@elements.20 //@regions.0/@elements.21 //@regions.0/@elements.22"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="16" connectsTo="//@regions.1/@elements.18 //@regions.0/@elements.17 //@regions.1/@elements.19"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="18" connectsTo="//@regions.0/@elements.18 //@regions.1/@elements.18" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="20" connectsTo="//@regions.0/@elements.18 //@regions.0/@elements.22" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="21" connectsTo="//@regions.0/@elements.18 //@regions.0/@elements.21" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="22" connectsTo="//@regions.1/@elements.20 //@regions.1/@elements.21" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="23" connectsTo="//@regions.1/@elements.24 //@regions.1/@elements.25" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="24" connectsTo="//@regions.1/@elements.23 //@regions.1/@elements.22" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="26" connectsTo="//@regions.1/@elements.25 //@regions.0/@elements.27" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="22" connectsTo="//@regions.1/@elements.25 //@regions.0/@elements.26 //@regions.1/@elements.26"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="28" connectsTo="//@regions.1/@elements.26 //@regions.0/@elements.29" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="29" connectsTo="//@regions.0/@elements.28 //@regions.1/@elements.27" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="25" connectsTo="//@regions.1/@elements.28 //@regions.1/@elements.27 //@regions.1/@elements.29"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="30" connectsTo="//@regions.1/@elements.30 //@regions.0/@elements.35" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="33" connectsTo="//@regions.1/@elements.30 //@regions.1/@elements.31" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="34" connectsTo="//@regions.0/@elements.34 //@regions.1/@elements.32" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="27" connectsTo="//@regions.0/@elements.35 //@regions.0/@elements.33 //@regions.1/@elements.31"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="28" connectsTo="//@regions.0/@elements.34 //@regions.1/@elements.31 //@regions.0/@elements.31"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="30" connectsTo="//@regions.1/@elements.33 //@regions.1/@elements.34 //@regions.0/@elements.37"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="36" connectsTo="//@regions.1/@elements.34 //@regions.0/@elements.36" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="32" connectsTo="//@regions.1/@elements.32 //@regions.1/@elements.34 //@regions.1/@elements.36"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="34" connectsTo="//@regions.1/@elements.35 //@regions.1/@elements.36 //@regions.0/@elements.40"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="35" connectsTo="//@regions.0/@elements.39 //@regions.0/@elements.41 //@regions.0/@elements.42"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="36" connectsTo="//@regions.1/@elements.35 //@regions.0/@elements.40 //@regions.1/@elements.37"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="38" connectsTo="//@regions.0/@elements.40 //@regions.1/@elements.37" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="38" connectsTo="//@regions.1/@elements.38 //@regions.0/@elements.47 //@regions.0/@elements.46"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="40" connectsTo="//@regions.1/@elements.39 //@regions.0/@elements.46" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="41" connectsTo="//@regions.1/@elements.40 //@regions.0/@elements.50" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="40" connectsTo="//@regions.0/@elements.43 //@regions.0/@elements.44 //@regions.0/@elements.48"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="41" connectsTo="//@regions.0/@elements.43 //@regions.1/@elements.40 //@regions.0/@elements.48"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="42" connectsTo="//@regions.0/@elements.46 //@regions.0/@elements.47" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="43" connectsTo="//@regions.1/@elements.39 //@regions.0/@elements.50" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="43" connectsTo="//@regions.0/@elements.45 //@regions.0/@elements.49 //@regions.1/@elements.38"/>
+  </regions>
+  <regions id="-6">
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="-3" expansionPoint="true" connectsTo="//@regions.0/@elements.0 //@regions.1/@elements.1 //@regions.0/@elements.1"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="-4" expansionPoint="true" connectsTo="//@regions.0/@elements.0 //@regions.1/@elements.0 //@regions.0/@elements.1"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" connectsTo="//@regions.1/@elements.3 //@regions.0/@elements.2" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1" connectsTo="//@regions.1/@elements.2 //@regions.0/@elements.2 //@regions.0/@elements.4"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="4" connectsTo="//@regions.1/@elements.5 //@regions.1/@elements.8" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="5" connectsTo="//@regions.1/@elements.4 //@regions.0/@elements.7" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="6" connectsTo="//@regions.0/@elements.3 //@regions.1/@elements.7" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="3" connectsTo="//@regions.0/@elements.7 //@regions.1/@elements.6 //@regions.1/@elements.8"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="4" connectsTo="//@regions.1/@elements.4 //@regions.1/@elements.7 //@regions.0/@elements.8"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="6" connectsTo="//@regions.0/@elements.10 //@regions.1/@elements.11 //@regions.0/@elements.11"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="7" connectsTo="//@regions.0/@elements.10 //@regions.1/@elements.11 //@regions.0/@elements.11"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="10" connectsTo="//@regions.1/@elements.9 //@regions.1/@elements.10" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="12" connectsTo="//@regions.0/@elements.12 //@regions.1/@elements.13" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="9" connectsTo="//@regions.1/@elements.14 //@regions.1/@elements.12 //@regions.0/@elements.14"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="13" connectsTo="//@regions.1/@elements.13 //@regions.0/@elements.13" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="11" connectsTo="//@regions.0/@elements.14 //@regions.1/@elements.16 //@regions.1/@elements.17"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="16" connectsTo="//@regions.1/@elements.15 //@regions.1/@elements.17" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="13" connectsTo="//@regions.0/@elements.17 //@regions.1/@elements.15 //@regions.1/@elements.16"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="14" connectsTo="//@regions.0/@elements.19 //@regions.0/@elements.20 //@regions.0/@elements.16"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="19" connectsTo="//@regions.0/@elements.19 //@regions.1/@elements.20" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="17" connectsTo="//@regions.1/@elements.19 //@regions.0/@elements.23 //@regions.1/@elements.21"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="18" connectsTo="//@regions.1/@elements.20 //@regions.1/@elements.22 //@regions.0/@elements.23"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="19" connectsTo="//@regions.1/@elements.21 //@regions.1/@elements.23 //@regions.0/@elements.25"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="20" connectsTo="//@regions.1/@elements.22 //@regions.0/@elements.25 //@regions.1/@elements.24"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="25" connectsTo="//@regions.0/@elements.24 //@regions.1/@elements.23" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="21" connectsTo="//@regions.0/@elements.24 //@regions.0/@elements.26 //@regions.0/@elements.27"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="27" connectsTo="//@regions.0/@elements.27 //@regions.0/@elements.28" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="23" connectsTo="//@regions.0/@elements.29 //@regions.1/@elements.28 //@regions.0/@elements.30"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="24" connectsTo="//@regions.1/@elements.27 //@regions.0/@elements.30 //@regions.1/@elements.29"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="31" connectsTo="//@regions.1/@elements.28 //@regions.0/@elements.30" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="32" connectsTo="//@regions.0/@elements.31 //@regions.0/@elements.32" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="26" connectsTo="//@regions.0/@elements.32 //@regions.0/@elements.35 //@regions.0/@elements.34"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="29" connectsTo="//@regions.0/@elements.33 //@regions.1/@elements.33 //@regions.0/@elements.38"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="35" connectsTo="//@regions.1/@elements.32 //@regions.0/@elements.36" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="31" connectsTo="//@regions.0/@elements.37 //@regions.0/@elements.36 //@regions.0/@elements.38"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="33" connectsTo="//@regions.0/@elements.39 //@regions.1/@elements.37 //@regions.0/@elements.41"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="37" connectsTo="//@regions.0/@elements.38 //@regions.0/@elements.39" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="37" connectsTo="//@regions.1/@elements.35 //@regions.0/@elements.41 //@regions.0/@elements.42"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Segment" id="39" connectsTo="//@regions.0/@elements.43 //@regions.0/@elements.50" length="100"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="39" connectsTo="//@regions.0/@elements.44 //@regions.1/@elements.40 //@regions.0/@elements.49"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="42" connectsTo="//@regions.0/@elements.47 //@regions.0/@elements.45 //@regions.1/@elements.39"/>
+  </regions>
+</hu.bme.mit.trainbenchmark:RailwayContainer>
