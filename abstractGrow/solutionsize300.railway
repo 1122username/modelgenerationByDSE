@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ASCII"?>
+<hu.bme.mit.trainbenchmark:RailwayContainer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hu.bme.mit.trainbenchmark="http://www.semanticweb.org/ontologies/2015/trainbenchmark">
+  <regions id="-5">
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="-1" expansionPoint="true" connectsTo="//@regions.1/@elements.1 //@regions.0/@elements.1 //@regions.1/@elements.11"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="-2" expansionPoint="true" connectsTo="//@regions.0/@elements.0 //@regions.0/@elements.2 //@regions.0/@elements.11"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454702" connectsTo="//@regions.0/@elements.1 //@regions.1/@elements.3 //@regions.0/@elements.8"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454703" connectsTo="//@regions.1/@elements.1 //@regions.1/@elements.3 //@regions.1/@elements.11"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454704" connectsTo="//@regions.1/@elements.1 //@regions.1/@elements.4 //@regions.1/@elements.8"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454705" connectsTo="//@regions.1/@elements.6 //@regions.0/@elements.8 //@regions.1/@elements.8"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454710" connectsTo="//@regions.0/@elements.9 //@regions.1/@elements.9 //@regions.1/@elements.14"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454711" connectsTo="//@regions.1/@elements.2 //@regions.1/@elements.7 //@regions.1/@elements.14"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454714" connectsTo="//@regions.0/@elements.5 //@regions.0/@elements.2 //@regions.1/@elements.15"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454715" connectsTo="//@regions.1/@elements.0 //@regions.0/@elements.6 //@regions.0/@elements.12"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454716" connectsTo="//@regions.1/@elements.7 //@regions.1/@elements.10 //@regions.1/@elements.15"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454717" connectsTo="//@regions.0/@elements.1 //@regions.1/@elements.12 //@regions.1/@elements.13"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454724" connectsTo="//@regions.1/@elements.4 //@regions.1/@elements.0 //@regions.0/@elements.9"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454725" connectsTo="//@regions.1/@elements.2 //@regions.1/@elements.5 //@regions.1/@elements.6"/>
+  </regions>
+  <regions id="-6">
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="-3" expansionPoint="true" connectsTo="//@regions.0/@elements.9 //@regions.1/@elements.9 //@regions.0/@elements.12"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="-4" expansionPoint="true" connectsTo="//@regions.0/@elements.0 //@regions.0/@elements.3 //@regions.0/@elements.4"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454706" connectsTo="//@regions.0/@elements.7 //@regions.1/@elements.12 //@regions.0/@elements.13"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454707" connectsTo="//@regions.0/@elements.3 //@regions.0/@elements.2 //@regions.1/@elements.7"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454708" connectsTo="//@regions.0/@elements.4 //@regions.1/@elements.10 //@regions.0/@elements.12"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454709" connectsTo="//@regions.1/@elements.9 //@regions.1/@elements.10 //@regions.0/@elements.13"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454712" connectsTo="//@regions.0/@elements.5 //@regions.1/@elements.8 //@regions.0/@elements.13"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454713" connectsTo="//@regions.0/@elements.7 //@regions.1/@elements.3 //@regions.0/@elements.10"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454718" connectsTo="//@regions.0/@elements.4 //@regions.1/@elements.6 //@regions.0/@elements.5"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454719" connectsTo="//@regions.0/@elements.6 //@regions.1/@elements.0 //@regions.1/@elements.5"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454720" connectsTo="//@regions.1/@elements.5 //@regions.1/@elements.4 //@regions.0/@elements.10"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454721" connectsTo="//@regions.0/@elements.3 //@regions.0/@elements.0 //@regions.1/@elements.13"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454722" connectsTo="//@regions.0/@elements.11 //@regions.1/@elements.2 //@regions.1/@elements.15"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454723" connectsTo="//@regions.0/@elements.11 //@regions.1/@elements.11 //@regions.1/@elements.14"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454726" connectsTo="//@regions.0/@elements.6 //@regions.0/@elements.7 //@regions.1/@elements.13"/>
+    <elements xsi:type="hu.bme.mit.trainbenchmark:Switch" id="1710454727" connectsTo="//@regions.1/@elements.12 //@regions.0/@elements.10 //@regions.0/@elements.8"/>
+  </regions>
+</hu.bme.mit.trainbenchmark:RailwayContainer>
